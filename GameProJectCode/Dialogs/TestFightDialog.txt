@@ -1,0 +1,9 @@
+Type = Dialog
+define GG=Андрей Левин
+define M=Мародер
+Start ID TestFightDialog
+ph GG: Эм-м. Привет?
+ph M: Тебе крышка
+Event StartFight
+ph GG: Эй ты чего
+End

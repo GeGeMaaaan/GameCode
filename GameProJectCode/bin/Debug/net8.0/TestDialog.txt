@@ -1,0 +1,37 @@
+define GG=Андрей Левин
+define Sg=???
+define None=None
+Start
+ph GG:Ты подходишь к странному человеку
+ph Sg:???
+ph GG:Ты подходишь к странному человеку
+ph Sg:???
+ph GG:Ты подходишь к странному человеку
+ph Sg:???
+ph GG:Ты подходишь к странному человеку
+ph Sg:Ты дурак?
+start_responses
+	ph GG:Нет
+	ph GG:Да
+	ph GG:Сам такой
+end_responses
+ans_response :Нет
+	ph Sg:Точно? 
+	start_responses
+		ph GG:Да
+		ph GG:Нет
+	end_responses
+	ans_response :Да
+		ph Sg:Ну ладно
+	end_ans_response
+	ans_response :Нет
+		ph Sg:Почему сразу не признался?
+	end_ans_response
+end_ans_response
+ans_response :Да
+	ph Sg:Так и знал
+end_ans_response
+ans_response :Сам такой
+	ph Sg:Эй!
+end_ans_response
+End

@@ -1,0 +1,29 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "keyword.other.custom-word",
+                "settings": {
+                    "foreground": "#FF0000"
+                }
+            }
+        ]
+    },
+
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "rules": {
+            "custom-word": "#FF0000"
+        }
+    }
+}
+
+Ключевое слово 1
+Ключевое слово 2
+if
+if
+myCustomWord
+end_response
+name

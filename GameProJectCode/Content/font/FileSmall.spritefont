@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+    <Asset Type="Graphics:FontDescription">
+
+        <!-- Font settings -->
+        <FontName>Arial</FontName>
+        <Size>18</Size>
+
+        <!-- Font style -->
+        <Spacing>0</Spacing>
+        <UseKerning>true</UseKerning>
+        <Style>Regular</Style>
+
+        <!-- Characters -->
+        <CharacterRegions>
+            <!-- ASCII characters (32 - 126) which includes basic Latin characters -->
+            <CharacterRegion>
+                <Start>32</Start>
+                <End>126</End>
+            </CharacterRegion>
+            <!-- Latin-1 Supplement characters -->
+            <CharacterRegion>
+                <Start>160</Start>
+                <End>255</End>
+            </CharacterRegion>
+            <!-- Cyrillic characters -->
+            <CharacterRegion>
+                <Start>1025</Start>
+                <End>1105</End>
+            </CharacterRegion>
+            <!-- En dash (–) -->
+            <CharacterRegion>
+                <Start>8211</Start>
+                <End>8211</End>
+            </CharacterRegion>
+        </CharacterRegions>
+    </Asset>
+</XnaContent>

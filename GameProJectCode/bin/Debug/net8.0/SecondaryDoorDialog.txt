@@ -1,0 +1,34 @@
+Type = Solo
+event=OpenDoorInHouse_dexterity
+event=OpenDoorInHouse_strength
+define GG=Андрей Левин
+Start
+ph GG:Я могу попытасться вскрыть замог, а могу просто выломать его
+start_responses
+	ph GG:Попытаться вскрыть
+	ph GG:Выломать
+	ph GG:Уйти
+end_responses
+ans_response :Попытаться вскрыть
+	stats_check dexterity 8
+	check_res :True
+		event_actve OpenDoorInHouse_dexterity
+		ph GG: Получилось. Аккуратная и точная работа.
+	end_check_res
+	check_res :False
+		ph GG: Черт. Замок заклинило теперь остается только выломать.	
+	end_check_res
+end_ans_response
+ans_response :Выломать
+	stats_check strength 6
+	check_res :True
+		event_actve OpenDoorInHouse_strength
+		ph GG: Ну вот и нет замка.
+	end_check_res
+	check_res :False
+		ph GG: Черт. Замок крепче чем я думал
+	end_check_res
+end_ans_response
+ans_response :Уйти
+end_ans_response
+End

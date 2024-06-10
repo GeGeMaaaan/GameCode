@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>B:/Game/GameProject/Gamee/Content/CellDefault.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/CellDefaultHover.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/CellEnemy.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/CellOcupation.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/CellPotential.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/CellSelected.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/Darker.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/Speaker/Алексей.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/Speaker/Андрей Левин.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/Speaker/Мародер1.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/Speaker/Мародер2.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/SpeakerImage.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/TextField.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dialog/VarianceField.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dice/dice1.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dice/dice2.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dice/dice3.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dice/dice4.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dice/dice5.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/dice/dice6.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/font/BaseFont.spritefont</File>
+    <File>B:/Game/GameProject/Gamee/Content/font/File.spritefont</File>
+    <File>B:/Game/GameProject/Gamee/Content/font/FileSmall.spritefont</File>
+    <File>B:/Game/GameProject/Gamee/Content/font/FileVerySmall.spritefont</File>
+    <File>B:/Game/GameProject/Gamee/Content/HealthBar.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/Icons/AttackSkillIcon.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/Icons/Marauder.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/Icons/MovementSkillIcon.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/Icons/Player.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/InteractionMenuBase.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/InventoryBase.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/InventoryCeil.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/ItemIcons/Flag.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/ItemIcons/Revolver.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/MainMenuBackGround.jpg</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/_4564254c-9f72-4e4c-bd29-74b386fe6105-Photoroom.png-Photoroom.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/_4564254c-9f72-4e4c-bd29-74b386fe6105.jpg</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/_671c6248-04b4-4c79-9870-b3af7ed8b044-Photoroom.png-Photoroom.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/_671c6248-04b4-4c79-9870-b3af7ed8b044.jpg</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/beadRoom/Background.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/beadRoom/Exit.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/beadRoom/Foreground.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/beadRoom/Алексей.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Default_medieval_housepixel_art2d_dark_color_side_view_2.jpg</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Enemy/marauder.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Enemy/marauder2.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/1Tiles.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/2Fence.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/3Bushes.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/4Ground.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/5BackBushes.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/6Forest.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/7Hills.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/Scene/8Sky.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/Background.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/BackgroundNew.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/chest.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/DoorInBeadRoom.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/DoorInHouse1.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/Dresser.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/ExitDoor1.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/ExitDoor2.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/ForeGround.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/Icon.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/Ladder.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/Ring.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/UnderBackGround.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screenInsideAHouse/wall.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/Background.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/Background1080.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/Door1.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/Door2.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/Horse.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/HouseOutside.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/HouseV2.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/PlayerBase.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/screeStartLocation/PlayerBaseAnimationRun.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/workCabinet/BackGroud.jpg</File>
+    <File>B:/Game/GameProject/Gamee/Content/New sprites/workCabinet/Exit.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/PlayButton.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/PlayerAnimationRun.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/sand-clock.png</File>
+    <File>B:/Game/GameProject/Gamee/Content/SkillIcon.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,6 @@
+define GG=Андрей Левин
+define Sg=???
+define None=None
+ph None:Ты подходишь к странному человеку
+ph None:???
+end

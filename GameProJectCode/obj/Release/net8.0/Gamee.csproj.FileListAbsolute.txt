@@ -1,0 +1,111 @@
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\CellDefault.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\CellDefaultHover.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\CellEnemy.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\CellOcupation.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\CellPotential.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\CellSelected.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Darker.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\SpeakerImage.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Speaker\marauder.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Speaker\Алексей.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Speaker\Андрей Левин.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Speaker\Мародер.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Speaker\Мародер1.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\Speaker\Мародер2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\TextField.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dialog\VarianceField.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dice\dice1.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dice\dice2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dice\dice3.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dice\dice4.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dice\dice5.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\dice\dice6.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\Flag.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\font\BaseFont.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\font\File.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\font\FileSmall.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\font\FileVerySmall.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\HealthBar.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\Icons\AttackSkillIcon.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\Icons\Marauder.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\Icons\MovementSkillIcon.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\Icons\Player.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\InteractionMenuBase.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\InventoryBase.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\InventoryCeil.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\ItemIcons\Flag.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\ItemIcons\Revolver.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\MainMenuBackGround.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\beadRoom\Background.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\beadRoom\Exit.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\beadRoom\Foreground.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\beadRoom\Алексей.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Default_medieval_housepixel_art2d_dark_color_side_view_2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Enemy\marauder.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Enemy\marauder2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\1Tiles.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\2Fence.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\3Bushes.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\4Ground.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\5BackBushes.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\6Forest.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\7Hills.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\Scene\8Sky.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\Background.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\BackgroundNew.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\chest.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\DoorInBeadRoom.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\DoorInHouse1.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\Dresser.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\ExitDoor1.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\ExitDoor2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\ForeGround.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\Icon.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\Ladder.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\Ring.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\UnderBackGround.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screenInsideAHouse\wall.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\Background.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\Background1080.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\Door1.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\Door2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\Horse.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\HouseOutside.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\HouseV2.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\PlayerBase.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\screeStartLocation\PlayerBaseAnimationRun.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\workCabinet\BackGroud.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\workCabinet\Exit.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\_4564254c-9f72-4e4c-bd29-74b386fe6105-Photoroom.png-Photoroom.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\_4564254c-9f72-4e4c-bd29-74b386fe6105.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\_671c6248-04b4-4c79-9870-b3af7ed8b044-Photoroom.png-Photoroom.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\New sprites\_671c6248-04b4-4c79-9870-b3af7ed8b044.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\PlayButton.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\PlayerAnimationRun.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\sand-clock.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Content\SkillIcon.xnb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Gamee.exe
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Gamee.deps.json
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Gamee.runtimeconfig.json
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Gamee.dll
+B:\Game\GameProject\Gamee\bin\Release\net8.0\Gamee.pdb
+B:\Game\GameProject\Gamee\bin\Release\net8.0\MonoGame.Framework.dll
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\linux-x64\native\libopenal.so.1
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\osx\native\libSDL2.dylib
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\osx\native\libopenal.1.dylib
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\win-x64\native\SDL2.dll
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\win-x64\native\soft_oal.dll
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\win-x86\native\SDL2.dll
+B:\Game\GameProject\Gamee\bin\Release\net8.0\runtimes\win-x86\native\soft_oal.dll
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.csproj.AssemblyReference.cache
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.GeneratedMSBuildEditorConfig.editorconfig
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.AssemblyInfoInputs.cache
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.AssemblyInfo.cs
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.csproj.CoreCompileInputs.cache
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.csproj.CopyComplete
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.dll
+B:\Game\GameProject\Gamee\obj\Release\net8.0\refint\Gamee.dll
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.pdb
+B:\Game\GameProject\Gamee\obj\Release\net8.0\Gamee.genruntimeconfig.cache
+B:\Game\GameProject\Gamee\obj\Release\net8.0\ref\Gamee.dll
